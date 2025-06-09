@@ -85,12 +85,12 @@ body {
   box-shadow: -15px 0 0 var(--cor-principal);
 }
 
-/* Texto do Login */
+/* Texto do Login/Registrar */
 .textos {
   position: relative;
 }
 
-.texto-login {
+.texto-login, .texto-registrar {
   position: absolute;
   top: 50%;
   left: 50%;
